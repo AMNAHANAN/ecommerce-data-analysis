@@ -1,0 +1,41 @@
+employee_id,first_name,last_name,department,manager_id,salary,hire_date
+1,Ethan,Chen,Sales,,74098,2021-01-31
+2,Fatima,Brown,Marketing,,53395,2024-02-12
+3,Omar,Kim,Sales,,54280,2018-05-03
+4,Wei,Hussain,Sales,,68062,2024-04-17
+5,Lucas,Park,Customer Support,,100878,2020-06-21
+6,Omar,Martinez,Sales,4,86597,2019-10-16
+7,John,Brown,Operations,1,54156,2021-10-10
+8,Yusuf,Chen,IT,5,76671,2021-11-09
+9,Priya,Khan,Analytics,1,91615,2024-01-06
+10,Ahmed,Park,HR,5,89400,2025-01-18
+11,Omar,Johnson,Marketing,2,79930,2018-07-07
+12,Ahmed,Hussain,Marketing,3,101429,2022-04-06
+13,Ethan,Ahmed,Finance,3,69460,2022-02-25
+14,Amara,Martinez,Marketing,2,112010,2024-10-31
+15,Hana,Hussain,Finance,4,77382,2023-03-09
+16,Chloe,Park,Operations,1,72021,2021-08-21
+17,Ryan,Khan,IT,3,50675,2022-07-02
+18,Wei,Anderson,IT,4,93856,2020-05-20
+19,Adam,Rodriguez,Finance,2,74325,2020-12-20
+20,Hana,Park,HR,4,118484,2024-07-22
+21,Yusuf,Ahmed,Operations,5,106686,2019-07-21
+22,Ahmed,Khan,Marketing,2,131192,2019-09-19
+23,Olivia,Nguyen,Marketing,4,120104,2022-04-26
+24,Noah,Taylor,HR,1,131166,2024-03-16
+25,Hana,Chen,HR,3,56621,2025-03-10
+26,Aisha,Kim,Finance,1,76522,2023-02-02
+27,Liam,Ali,Marketing,3,125748,2025-01-05
+28,Liam,Nguyen,Operations,3,63174,2019-09-19
+29,Grace,Taylor,Sales,3,106042,2024-09-19
+30,James,Chen,IT,2,49592,2021-06-13
+31,Fatima,Anderson,Marketing,4,51071,2018-12-17
+32,Daniel,Park,Finance,4,114063,2019-06-10
+33,Sara,Martinez,Customer Support,5,132422,2020-05-17
+34,Wei,Lee,Customer Support,3,99422,2025-04-15
+35,Adam,Taylor,Analytics,2,71451,2019-05-11
+36,Ahmed,Wilson,Sales,5,72161,2024-08-06
+37,Omar,Hussain,Sales,1,72007,2018-10-18
+38,Ahmed,Khan,IT,5,73195,2018-10-18
+39,John,Malik,Operations,2,116847,2024-01-18
+40,Omar,Malik,Operations,4,66957,2023-04-22

@@ -1,0 +1,43 @@
+id,first_name,last_name,email,age,city,signup_date
+1,  John ,JOHNSON,john.johnson1@mail.com,29,  New York  ,11/07/2023
+2,  Ahmed ,TAYLOR,ahmed.taylor2@mail.com,38,Chicago ,11/05/2024
+3,  Adam ,Nguyen,adam.nguyen3@mail.com,38,new york,01/30/2023
+4,  Ethan ,Anderson,ethan.anderson4@mail.com,28,Chicago ,10/16/2024
+5,  Adam ,Park,adam.park5@mail.com,45,LA,02/20/2024
+6,  Ahmed ,KHAN,ahmed.khan6@mail.com,150,LA,12/15/2023
+7,  Carlos ,WILSON,carlos.wilson7@mail.com,-5,los angeles,01/15/2024
+8,  Linda ,Wilson,linda.wilson8@mail.com,25,  New York  ,05/25/2023
+9,  Aisha ,DAVIS,aisha.davis9@mail.com,150,ny,06/13/2023
+10,  Chloe ,Anderson,chloe.anderson10@mail.com,28,NEW YORK,06/11/2024
+11,  Adam ,Lee,adam.lee11@mail.com,25,los angeles,09/04/2023
+12,  Emma ,KHAN,,33,Chicago ,10/31/2024
+13,  Aisha ,PARK,,25,los angeles,09/28/2023
+14,  Daniel ,Davis,daniel.davis14@mail.com,150,new york,07/19/2023
+15,  Aisha ,GARCIA,aisha.garcia15@mail.com,33,chicago,09/30/2024
+16,  Linda ,BROWN,linda.brown16@mail.com,150,Los Angeles,12/14/2023
+17,  Emma ,Brown,emma.brown17@mail.com,29,los angeles,02/16/2023
+18,  Lucas ,Wilson,lucas.wilson18@mail.com,29,LA,06/11/2024
+19,  Chloe ,NGUYEN,chloe.nguyen19@mail.com,150,Chicago ,11/03/2023
+20,  Liam ,Taylor,liam.taylor20@mail.com,38,  New York  ,01/18/2023
+21,  Amara ,Chen,amara.chen21@mail.com,38,  New York  ,10/06/2024
+22,  Zainab ,MARTINEZ,zainab.martinez22@mail.com,38,Chicago ,02/22/2023
+23,  Sara ,Taylor,sara.taylor23@mail.com,38,los angeles,11/28/2024
+24,  Omar ,CHEN,omar.chen24@mail.com,33,Los Angeles,02/27/2024
+25,  Olivia ,Taylor,olivia.taylor25@mail.com,33,new york,06/15/2024
+26,  Carlos ,Malik,carlos.malik26@mail.com,-5,NEW YORK,06/29/2024
+27,  Emma ,Martinez,emma.martinez27@mail.com,28,ny,11/02/2023
+28,  Aisha ,LEE,aisha.lee28@mail.com,33,Los Angeles,07/27/2024
+29,  Priya ,MARTINEZ,priya.martinez29@mail.com,38,chicago,02/09/2024
+30,  Daniel ,BROWN,daniel.brown30@mail.com,45,New York,03/28/2024
+31,  Hana ,Malik,hana.malik31@mail.com,29,  New York  ,10/06/2023
+32,  Sophia ,Anderson,sophia.anderson32@mail.com,22,chicago,08/27/2023
+33,  Olivia ,WILSON,olivia.wilson33@mail.com,25,NEW YORK,
+34,  Chloe ,Ali,chloe.ali34@mail.com,33,LA,10/22/2023
+35,  Ethan ,KHAN,ethan.khan35@mail.com,25,Chicago ,02/08/2023
+36,  Sara ,KIM,sara.kim36@mail.com,31,new york,02/11/2024
+37,  Sara ,LEE,sara.lee37@mail.com,22,  New York  ,04/20/2023
+38,  Carlos ,LEE,carlos.lee38@mail.com,,chicago,05/18/2023
+39,  Noah ,MARTINEZ,noah.martinez39@mail.com,25,Los Angeles,04/14/2024
+40,  Lucas ,Ali,,-5,  New York  ,07/17/2023
+6,  Ahmed ,KHAN,ahmed.khan6@mail.com,150,LA,12/15/2023
+13,  Aisha ,PARK,,25,los angeles,09/28/2023
